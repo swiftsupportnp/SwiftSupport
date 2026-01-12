@@ -13,7 +13,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "dependencies": {
     "@sanity/image-url": "^2.0.2",
     "embla-carousel-react": "^8.6.0",
